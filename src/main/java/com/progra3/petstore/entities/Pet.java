@@ -29,7 +29,7 @@ public class Pet {
 
 	@Column(name = "birth_day")
 	@Temporal(TemporalType.DATE)
-	@NotEmpty(message = "La fecha no puede estar en blanco.")
+	@NotNull(message = "La fecha no puede estar en blanco.")
 	private Date birthDay;
 	public Long getId() {
 		return id;
@@ -55,7 +55,4 @@ public class Pet {
 	public void setBirthDay(Date birthDay) {
 		this.birthDay = birthDay;
 	}
-	
-	
-
 }
