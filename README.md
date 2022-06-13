@@ -1,6 +1,8 @@
 # Examen Final de Programación 3
 En el examnen parcial de programación 3, fué requerido realizar una API, en la cuál llevará el control de un centro de adopción de máscotas
-dicha API puede ser consultada en el siguiente enlace [Documentación Swagger UI]([Polar City: Frontend - GitHub](https://github.com/Kevinisky27/Polar-City_Frontend))
+dicha API puede ser consultada en el siguiente enlace [Documentación Swagger UI](https://tienda-de-adopcion-de-mascotas.herokuapp.com/swagger-ui.html#/)
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/60667480/173442280-5b0a34ee-5a21-4928-915b-d4660f48f367.png">
 
 ## Desarrollado:
 Está aplicación fué desarrollada en el 2022, por el estudiante de la `Facultad de Ingeniería`
